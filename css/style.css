@@ -18,6 +18,12 @@ ul {
     padding: 0;
 }
 
+.side {
+    background: #C3D6DE;
+    margin-top: 70px;
+    margin-left: 60px;
+}
+
 /* Header */
 
 header {
@@ -79,12 +85,26 @@ header nav {
     color: #7196A8;
 }
 
-#main aside#sidebar {
-    float: right;
-    width: 30%;
-}
-
 #main h1 {
     font-size: 55px;
     color: #7196A8;
+}
+
+/* Sidebar */
+
+#main aside#sidebar {
+    float: right;
+    width: 30%;
+    text-align: center;
+}
+
+#main img {
+    height: 300px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+#main p {
+    text-align: start;
+    padding: 0 0 20px 20px;
 }
