@@ -27,12 +27,15 @@ ul {
 
 header {
     background: #26547C;
-    padding-top: 20px;
-    color: #ffffff;
-    min-height: 70px;
-    text-align: center;
-    font-size: 20px;
     border-bottom: 3px solid #ffffff;
+    color: #ffffff;
+    font-size: 20px;
+    min-height: 70px;
+    padding-top: 20px;
+    text-align: center;
+    position: fixed; 
+    top: 0;
+    width: 100%;
 }
 
 header a {
@@ -65,6 +68,7 @@ header nav {
     min-height: 500px;
     /* background: url("../img/owen-beard-DK8jXx1B-1c-unsplash.jpg") no-repeat -650px -1400px; */
     text-align: center;
+    margin-top: 80px; 
 }
 
 #showcase h1 {
