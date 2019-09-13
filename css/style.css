@@ -2,7 +2,6 @@ body {
     font: 15px/1.5 Arial, Helvetica, sans-serif;
     padding: 0;
     margin: 0;
-    background: #f4f4f4;
 }
 
 /* Global */
@@ -19,7 +18,7 @@ ul {
 }
 
 .side {
-    background: #C3D6DE;
+    background: #E5FFF7;
     margin-top: 70px;
     margin-left: 60px;
 }
@@ -27,7 +26,7 @@ ul {
 /* Header */
 
 header {
-    background: #A9DBB8;
+    background: #26547C;
     padding-top: 20px;
     color: #ffffff;
     min-height: 70px;
@@ -64,7 +63,7 @@ header nav {
 
 #showcase {
     min-height: 500px;
-    background: url("../img/owen-beard-DK8jXx1B-1c-unsplash.jpg") no-repeat -650px -1400px;
+    /* background: url("../img/owen-beard-DK8jXx1B-1c-unsplash.jpg") no-repeat -650px -1400px; */
     text-align: center;
 }
 
@@ -80,7 +79,6 @@ header nav {
     float: left;
     width: 65%;
     margin-top: 70px;
-    background: #DFF1E5;
     padding: 30px;
     padding-bottom: 165px;
     color: #7196A8;
@@ -109,4 +107,14 @@ header nav {
 #main p {
     text-align: start;
     padding: 0 0 20px 20px;
+}
+
+/* Footer */
+
+footer {
+    background: #26547C;
+    margin-top: 50px;
+    padding: 15px;
+    color: #ffffff;
+    text-align: center;
 }
