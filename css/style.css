@@ -67,3 +67,24 @@ header nav {
     font-size: 60px;
     color: #ffffff;
 }
+
+/* Main-about */
+
+#main article#about {
+    float: left;
+    width: 65%;
+    margin-top: 70px;
+    background: #DFF1E5;
+    padding: 20px;
+    color: #7196A8;
+}
+
+#main aside#sidebar {
+    float: right;
+    width: 30%;
+}
+
+#main h1 {
+    font-size: 55px;
+    color: #7196A8;
+}
