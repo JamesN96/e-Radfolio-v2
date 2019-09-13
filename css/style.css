@@ -53,3 +53,15 @@ header nav {
     margin-top: 10px;
 }
 
+/* Showcase */
+
+#showcase {
+    min-height: 500px;
+    background: url("../img/owen-beard-DK8jXx1B-1c-unsplash.jpg") no-repeat -650px -1400px;
+    text-align: center;
+}
+
+#showcase h1 {
+    margin-top: 210px;
+    font-size: 60px;
+}
