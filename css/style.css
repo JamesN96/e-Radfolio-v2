@@ -113,11 +113,20 @@ header nav {
     padding: 0 0 20px 20px;
 }
 
-/* Learning-main */
+/* Learning Page heading  */
 
-#main-learning {
-    margin-top: 100px;
+#page-heading {
+    margin-top: 140px;
+    text-align: center;
+    text-transform: uppercase;
 }
+
+#page-heading h1 {
+    border-bottom: 1px solid black;
+    padding-bottom: 30px;
+}
+
+/* Learning Article */
 
 #main-learning article#learning {
     float: right;
