@@ -119,6 +119,14 @@ header nav {
     margin-top: 100px;
 }
 
+#main-learning article#learning {
+    float: right;
+    width: 65%;
+    margin-top: 100px;
+    line-height: 2;
+}
+
+
 
 /* Footer */
 
