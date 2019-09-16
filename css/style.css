@@ -140,7 +140,11 @@ header nav {
 #main-learning aside#sidebar {
     float: left;
     width: 30%;
-    margin-top: 40px;
+    margin-top: 50px;
+}
+
+#main-learning aside#sidebar li {
+    padding: 10px 0 10px 0;
 }
 
 /* Footer */
