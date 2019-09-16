@@ -126,7 +126,13 @@ header nav {
     line-height: 2;
 }
 
+/* Learning Sidebar */
 
+#main-learning aside#sidebar {
+    float: left;
+    width: 30%;
+    margin-top: 40px;
+}
 
 /* Footer */
 
