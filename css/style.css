@@ -193,6 +193,19 @@ header nav {
     padding-bottom: 30px;
 }
 
+/* Capabilitity section */
+
+#capability-1 h2 {
+    float: left;
+    width: 25%;
+    margin-top: 50px;
+}
+
+#capability-1 article#inventiveness {
+    float: right;
+    width: 70%;
+    margin-top: 50px;
+}
 /* Footer */
 
 footer {
