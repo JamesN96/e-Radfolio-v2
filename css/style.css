@@ -156,7 +156,7 @@ header nav {
     padding: 10px 0 10px 0;
 }
 
-/* MRPBA section */
+    /* MRPBA section */
 
 /* Mrpba heading */
 
@@ -170,6 +170,14 @@ header nav {
     border-bottom: 1px solid black;
     padding-bottom: 30px;
 }
+
+/* Domain section */
+
+#domains {
+    margin: 100px 0 400px 0;
+    text-align: center;
+}
+
 /* Footer */
 
 footer {
