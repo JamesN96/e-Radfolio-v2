@@ -199,10 +199,6 @@ header nav {
     margin-bottom: 100px;
 }
 
-#capability-1 div.container {
-    padding-bottom: 300px;
-}
-
 #capability-1 h2 {
     float: left;
     width: 25%;
@@ -214,6 +210,7 @@ header nav {
     float: right;
     width: 70%;
     margin-top: 50px;
+    padding: 20px 0px 300px 30px;
 }
 
 /* Capability-2 section */
