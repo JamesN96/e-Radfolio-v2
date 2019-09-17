@@ -196,8 +196,7 @@ header nav {
 /* Capabilitity section */
 
 #capability-1 {
-    margin-bottom: 200px;
-    min-height: 500px;
+    margin-bottom: 100px;
 }
 
 #capability-1 div.container {
@@ -219,15 +218,21 @@ header nav {
 
 /* Capability-2 section */
 
+#capability-2 div.container {
+    padding-bottom: 300px;
+}
+
 #capability-2 h2 {
     width: 25%;
     margin-top: 100px;
+    padding-right: 40px;
 }
 
 #capability-2 article#influence {
     float: left; 
     width: 70%;
     margin-top: 100px;
+    padding-left: 40px;
 }
 
 #capability-2 #side {
