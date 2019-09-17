@@ -210,7 +210,6 @@ header nav {
 /* Capability-2 section */
 
 #capability-2 h2 {
-    float: right;
     width: 25%;
     margin-top: 100px;
 }
@@ -219,6 +218,10 @@ header nav {
     float: left; 
     width: 70%;
     margin-top: 100px;
+}
+
+#capability-2 #side {
+    float: right;
 }
 
 /* Footer */
