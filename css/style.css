@@ -232,6 +232,14 @@ header nav {
     float: right;
 }
 
+/* HR */
+
+hr {
+    width: 80%;
+    height: 2px;
+    background-color: blue;
+}
+
 /* Footer */
 
 footer {
