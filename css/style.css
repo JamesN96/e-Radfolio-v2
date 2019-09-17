@@ -152,6 +152,16 @@ header nav {
     padding: 10px 0 10px 0;
 }
 
+/* MRPBA section */
+
+/* Mrpba heading */
+
+#mrpba-heading {
+    margin-top: 140px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
 /* Footer */
 
 footer {
