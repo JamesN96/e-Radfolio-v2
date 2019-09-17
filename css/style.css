@@ -24,7 +24,7 @@ ul {
 }
 
 .border {
-    border: 1px solid red;
+    border: 1px solid blue;
 }
 
 /* Header */
@@ -195,10 +195,20 @@ header nav {
 
 /* Capabilitity section */
 
+#capability-1 {
+    margin-bottom: 200px;
+    min-height: 500px;
+}
+
+#capability-1 div.container {
+    padding-bottom: 300px;
+}
+
 #capability-1 h2 {
     float: left;
     width: 25%;
     margin-top: 50px;
+    padding-left: 40px;
 }
 
 #capability-1 article#inventiveness {
