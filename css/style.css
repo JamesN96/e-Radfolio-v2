@@ -178,6 +178,16 @@ header nav {
     text-align: center;
 }
 
+    /* Graduate capabilities */
+
+/* Graduate heading */
+
+#graduate-heading {
+    margin-top: 140px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
 /* Footer */
 
 footer {
