@@ -23,6 +23,10 @@ ul {
     margin-left: 60px;
 }
 
+.border {
+    border: 1px solid red;
+}
+
 /* Header */
 
 header {
