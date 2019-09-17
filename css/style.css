@@ -206,6 +206,21 @@ header nav {
     width: 70%;
     margin-top: 50px;
 }
+
+/* Capability-2 section */
+
+#capability-2 h2 {
+    float: right;
+    width: 25%;
+    margin-top: 100px;
+}
+
+#capability-2 article#influence {
+    float: left; 
+    width: 70%;
+    margin-top: 100px;
+}
+
 /* Footer */
 
 footer {
