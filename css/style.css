@@ -252,7 +252,7 @@ footer {
 
 /* Media Queries */
 
-@media(max-width: 1493px) {
+@media(max-width: 1498px) {
     #main article#about {
         width: 50%;
         padding-left: 0;
@@ -277,6 +277,7 @@ footer {
     header {
         padding-bottom: 20px;
     }
+
     header nav ul li, header li.li-border  {
         display: block;
         border-right: none
