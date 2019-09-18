@@ -278,6 +278,12 @@ footer {
     }
 }
 
+@media(max-width: 1494px) {
+    #main-learning aside#sidebar .side {
+        width: 80%
+    }
+}
+
 @media(max-width: 981px) {
 
     #main {
