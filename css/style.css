@@ -274,6 +274,9 @@ footer {
 
 @media(max-width: 933px) {
 
+    header {
+        padding-bottom: 20px;
+    }
     header nav ul li, header li.li-border  {
         display: block;
         border-right: none
