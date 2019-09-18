@@ -249,3 +249,26 @@ footer {
     color: #ffffff;
     text-align: center;
 }
+
+/* Media Queries */
+
+@media(max-width: 1493px) {
+    #main article#about {
+        width: 50%;
+        padding-left: 0;
+    }
+
+    #main aside#sidebar {
+        width: 30%;
+        padding-right: 120px;
+    }
+
+    #main img {
+        height: 200px;
+    }
+
+    .side {
+        width: 100%;
+    }
+
+}
