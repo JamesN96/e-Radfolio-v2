@@ -272,6 +272,12 @@ footer {
     }
 }
 
+@media(max-width: 1495px) {
+    #main {
+        margin-bottom: -100px;
+    }
+}
+
 @media(max-width: 944px) {
 
     header {
