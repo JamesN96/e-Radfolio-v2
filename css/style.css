@@ -270,5 +270,17 @@ footer {
     .side {
         width: 100%;
     }
+}
 
+@media(max-width: 933px) {
+    #main article#about, #main aside#sidebar {
+        float: none;
+        margin: 0 auto;
+        text-align: center;
+        width: 100%;
+    }
+
+    #main article#about  {
+        padding-bottom: 50px;
+    }
 }
