@@ -273,6 +273,12 @@ footer {
 }
 
 @media(max-width: 933px) {
+
+    header nav ul li, header li.li-border  {
+        display: block;
+        border-right: none
+    }
+    
     #main article#about, #main aside#sidebar {
         float: none;
         margin: 0 auto;
