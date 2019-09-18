@@ -289,4 +289,9 @@ footer {
     #main article#about  {
         padding-bottom: 50px;
     }
+
+    #main aside#sidebar .side {
+        position: relative;
+        right: 40px;
+    }
 }
