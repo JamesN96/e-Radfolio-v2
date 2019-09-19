@@ -318,7 +318,7 @@ footer {
     /* Learning.html */
 
     #main-learning {
-        margin-bottom: 70px;
+        margin-bottom: 0px;
     }
 
     #page-heading h1 {
@@ -336,10 +336,6 @@ footer {
     #main-learning aside#sidebar .side {
         margin: 0px auto;
         margin-top: -10px;;
-    }
-
-    #main-learning aside#sidebar .side ol {
-        margin-left: 35px;
     }
 
     #main-learning article#learning {
