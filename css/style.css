@@ -331,11 +331,13 @@ footer {
 
     #main-learning aside#sidebar {
         margin: 70px auto 100px;
+        width: 70%;
     }
 
     #main-learning aside#sidebar .side {
         margin: 0px auto;
         margin-top: -10px;;
+        width: 70%;
     }
 
     #main-learning article#learning {
