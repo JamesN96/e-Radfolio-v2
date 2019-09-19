@@ -315,6 +315,8 @@ footer {
         right: 40px;
     }
 
+    /* Learning.html */
+    
     #main-learning article#learning, #main-learning aside#sidebar {
         float: none;
     }
