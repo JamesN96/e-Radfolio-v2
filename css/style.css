@@ -317,6 +317,10 @@ footer {
 
     /* Learning.html */
 
+    #page-heading h1 {
+        margin-top: 50px;
+    }
+
     #main-learning article#learning, #main-learning aside#sidebar {
         float: none;
     }
