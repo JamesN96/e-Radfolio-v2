@@ -316,8 +316,12 @@ footer {
     }
 
     /* Learning.html */
-    
+
     #main-learning article#learning, #main-learning aside#sidebar {
         float: none;
+    }
+
+    #main-learning aside#sidebar {
+        margin: 0 auto;        
     }
 }
