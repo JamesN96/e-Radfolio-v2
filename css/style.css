@@ -326,10 +326,20 @@ footer {
     }
 
     #main-learning aside#sidebar {
-        margin: 0 auto;        
+        margin: 0px auto;
+        margin-bottom: 50px;
+    }
+
+    #main-learning aside#sidebar .side {
+        margin: 0px auto;
+        margin-top: -10px;;
     }
 
     #main-learning aside#sidebar .side ol {
         margin-left: 35px;
+    }
+
+    #main-learning article#learning {
+        margin: 0px auto;
     }
 }
