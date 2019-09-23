@@ -276,6 +276,10 @@ footer {
     #capability-1 h2 {
         width: 20%;
     }
+
+    #capability-1 article#inventiveness {
+        width: 60%;
+    }
 }
 
 @media(max-width: 1495px) {
@@ -347,6 +351,14 @@ footer {
     }
 
     #main-learning article#learning {
+        margin: 0px auto;
+    }
+}
+
+@media(max-width: 759px) {
+    /* Graduate Capability */
+    #capability-1 h2, #capability-1 article#inventiveness {
+        float: none;
         margin: 0px auto;
     }
 }
