@@ -361,4 +361,10 @@ footer {
         float: none;
         margin: 0px auto;
     }
+
+    #capability-1 h2 {
+        margin-top: 20px;
+        margin-bottom: 30px;
+        padding-left: 0px;
+    }
 }
