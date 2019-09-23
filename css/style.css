@@ -270,6 +270,12 @@ footer {
     .side {
         width: 100%;
     }
+
+    /* Graduate section */
+
+    #capability-1 h2 {
+        width: 20%;
+    }
 }
 
 @media(max-width: 1495px) {
