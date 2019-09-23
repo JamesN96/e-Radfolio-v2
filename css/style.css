@@ -341,13 +341,18 @@ footer {
 
     #main-learning aside#sidebar {
         margin: 70px auto 70px;
-        width: 70%;
+        width: 90%;
+    }
+
+    #main-learning aside#sidebar ol {
+        margin: auto;
+        width: 25%;
     }
 
     #main-learning aside#sidebar .side {
         margin: 0px auto;
         margin-top: -10px;;
-        width: 70%;
+        width: 90%;
     }
 
     #main-learning article#learning {
@@ -373,6 +378,12 @@ footer {
 }
 
 @media(max-width: 759px) {
+    /* Learning */
+
+    #main-learning aside#sidebar ol {
+        width: 35%;
+    }
+
     /* Graduate Capability */
 
     #capability-1 {
