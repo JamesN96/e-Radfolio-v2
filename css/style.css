@@ -357,6 +357,7 @@ footer {
 
 @media(max-width: 759px) {
     /* Graduate Capability */
+
     #capability-1 h2, #capability-1 article#inventiveness {
         float: none;
         margin: 0px auto;
@@ -366,5 +367,11 @@ footer {
         margin-top: 20px;
         margin-bottom: 30px;
         padding-left: 0px;
+        padding-right: 65px;
+    }
+
+    #capability-1 article#inventiveness {
+        width: 95%;
+        padding-left: 5px;
     }
 }
