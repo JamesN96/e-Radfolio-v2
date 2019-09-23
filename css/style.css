@@ -359,11 +359,10 @@ footer {
     #graduate-heading h1{
         margin-top: 50px;
     }
-    
+
     #capability-2 article#influence {
         width: 60%;
     }
-
 }
 
 @media(max-width: 759px) {
@@ -392,7 +391,7 @@ footer {
 
     #capability-2 h2 {
         margin: 0px auto;
-        padding-left: 40px;
+        padding-left: 50px;
         margin-top: 30px;
         margin-bottom: 30px;
     }
