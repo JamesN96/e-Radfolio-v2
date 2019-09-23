@@ -358,6 +358,14 @@ footer {
 @media(max-width: 759px) {
     /* Graduate Capability */
 
+    #graduate-heading h1{
+        margin-top: 50px;
+    }
+
+    #capability-1 {
+        margin-bottom: 60px
+    }
+
     #capability-1 h2, #capability-1 article#inventiveness,  #capability-2 #side, #capability-2 article#influence{
         float: none;
         margin: 0px auto;
