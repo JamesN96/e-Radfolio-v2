@@ -382,4 +382,8 @@ footer {
         margin-bottom: 30px;
     }
  
+    #capability-2 article#influence {
+        width: 95%;
+        padding-left: 5px;
+    }
 }
