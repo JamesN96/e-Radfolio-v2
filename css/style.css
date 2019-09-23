@@ -352,6 +352,7 @@ footer {
 
     #main-learning article#learning {
         margin: 0px auto;
+        width: 90%;
     }
 
     /* MRPBA domains */
@@ -359,7 +360,7 @@ footer {
     #mrpba-heading {
         margin-top: 170px;
     }
-    
+
     /* Graduate capability */
 
     #graduate-heading h1{
