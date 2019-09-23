@@ -354,6 +354,12 @@ footer {
         margin: 0px auto;
     }
 
+    /* MRPBA domains */
+
+    #mrpba-heading {
+        margin-top: 170px;
+    }
+    
     /* Graduate capability */
 
     #graduate-heading h1{
