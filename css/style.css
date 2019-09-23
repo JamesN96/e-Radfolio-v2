@@ -353,6 +353,12 @@ footer {
     #main-learning article#learning {
         margin: 0px auto;
     }
+
+    /* Graduate capability */
+    #capability-2 article#influence {
+        width: 60%;
+    }
+
 }
 
 @media(max-width: 759px) {
