@@ -433,6 +433,13 @@ footer {
         width: 70%;
     }
 
+    #div-1, #div-2, #div-3 {
+        position: relative; 
+        top: -600px;
+        left: 0px;
+        min-height: 700px;
+        margin-bottom: -500px;
+    }
     /* Graduate capability */
 
     #graduate-heading h1{
