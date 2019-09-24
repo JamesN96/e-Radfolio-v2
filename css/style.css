@@ -186,6 +186,8 @@ header nav {
     text-align: center;
 }
 
+/* Domain Divs */
+
 #div-1, #div-2, #div-3 {
     position: absolute;
     top: 250px;
@@ -195,6 +197,17 @@ header nav {
     z-index: 10;
     border: 1px solid red;
     background: orange;
+}
+
+#div-1 h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#div-1 p {
+    width: 80%;
+    margin-left: 80px;
+    margin-top: 50px;
 }
 
     /* Graduate capabilities */
