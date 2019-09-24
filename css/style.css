@@ -57,6 +57,7 @@ header {
     position: fixed; 
     top: 0;
     width: 100%;
+    z-index: 11
 }
 
 header a {
@@ -328,7 +329,7 @@ footer {
     #domains button {
         width: 60%;
     }
-
+    
     /* Graduate section */
 
     #capability-1 h2 {
@@ -459,6 +460,20 @@ footer {
     #domains button {
         width: 70%;
     }
+
+    #div-1 {
+       position: relative;
+       top: -600px;
+       left: 0px;
+       height: 700px;
+       margin-bottom: -500px
+    }
+
+    #div-1 p {
+        margin-left: 50px;
+    }
+
+    #div-1 
 
     /* Graduate Capability */
 
