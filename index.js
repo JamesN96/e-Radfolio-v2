@@ -5,11 +5,13 @@
 let btn1 = document.getElementById("btn-1"); 
 let btn2 = document.getElementById("btn-2");
 let btn3 = document.getElementById("btn-3");
+let close1 = document.getElementById("close-1");
 
 // Event Listeners
 btn1.addEventListener("click", showDiv);
 btn2.addEventListener("click", showDiv2);
 btn3.addEventListener("click", showDiv3);
+close1.addEventListener("click", showDiv);
 
 
 // showDiv function
