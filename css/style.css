@@ -27,6 +27,14 @@ ul {
     border: 1px solid blue;
 }
 
+.display-none {
+    display: none;
+}
+
+.display {
+    display: block;
+}
+
 /* Header */
 
 header {
