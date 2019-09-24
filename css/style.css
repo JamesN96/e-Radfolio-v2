@@ -186,7 +186,7 @@ header nav {
     text-align: center;
 }
 
-#div-1 {
+#div-1, #div-2, #div-3 {
     position: absolute;
     top: 250px;
     left: 110px;
@@ -194,7 +194,7 @@ header nav {
     height: 50%;
     z-index: 10;
     border: 1px solid red;
-    /* background: orange; */
+    background: orange;
 }
 
     /* Graduate capabilities */
