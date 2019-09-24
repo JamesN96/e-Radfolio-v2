@@ -355,10 +355,12 @@ footer {
 
     #div-1 #close-1 {
         margin: 460px auto 0px;
+        width: 20%;
     }
 
     #div-2 #close-2, #div-3 #close-3{
         margin: 400px auto 0px;
+        width: 20%;
     }
 
     /* Graduate section */
@@ -474,10 +476,12 @@ footer {
 
     #div-1 #close-1 {
         margin: 440px auto 0px;
+        width: 30%;
     }
 
     #div-2 #close-2, #div-3 #close-3{
         margin: 300px auto 0px;
+        width: 30%;
     }
 
     /* Graduate capability */
@@ -522,10 +526,12 @@ footer {
 
     #div-1 #close-1 {
         margin: 360px auto 0px;
+        width: 30%;
     }
 
     #div-2 #close-2, #div-3 #close-3{
         margin: 250px auto 0px;
+        width: 30%;
     }
 
     /* Graduate Capability */
