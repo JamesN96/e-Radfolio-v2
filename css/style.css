@@ -57,7 +57,7 @@ header {
     position: fixed; 
     top: 0;
     width: 100%;
-    z-index: 11
+    z-index: 11;
 }
 
 header a {
@@ -461,7 +461,7 @@ footer {
         width: 70%;
     }
 
-    #div-1 {
+    #div-1, #div-2, #div-3 {
        position: relative;
        top: -600px;
        left: 0px;
@@ -469,11 +469,23 @@ footer {
        margin-bottom: -500px
     }
 
-    #div-1 p {
-        margin-left: 50px;
+    #div-1 p, #div-2 p, #div-3 p {
+        margin-left: 40px;
     }
 
-    #div-1 
+    #close-1 {
+        position: relative;
+        top: 250px;
+        left: 140px;
+        width: 30%;
+    }
+
+    #close-2, #close-3 {
+        position: relative;
+        top: 30px;
+        left: 140px;
+        width: 30%;
+    }
 
     /* Graduate Capability */
 
