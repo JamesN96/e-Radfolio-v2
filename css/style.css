@@ -35,6 +35,15 @@ ul {
     display: block;
 }
 
+.close {
+    position: absolute;
+    top: 450px;
+    left: 700px;
+    width: 10%;
+    height: 5%;
+    text-transform: uppercase;
+}
+
 /* Header */
 
 header {
@@ -209,6 +218,8 @@ header nav {
     margin-left: 80px;
     margin-top: 50px;
 }
+
+
 
     /* Graduate capabilities */
 
