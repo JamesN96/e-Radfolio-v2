@@ -359,7 +359,7 @@ footer {
     }
 
     #div-2 #close-2, #div-3 #close-3{
-        margin: 400px auto 0px;
+        margin: 400px auto 10px;
         width: 20%;
     }
 
@@ -475,12 +475,12 @@ footer {
     }
 
     #div-1 #close-1 {
-        margin: 440px auto 0px;
+        margin: 440px auto 20px;
         width: 30%;
     }
 
     #div-2 #close-2, #div-3 #close-3{
-        margin: 300px auto 0px;
+        margin: 300px auto 10px;
         width: 30%;
     }
 
@@ -530,7 +530,7 @@ footer {
     }
 
     #div-2 #close-2, #div-3 #close-3{
-        margin: 250px auto 0px;
+        margin: 150px auto 0px;
         width: 30%;
     }
 
@@ -570,7 +570,7 @@ footer {
     }
 }
 
-@media(max-width: 500px) {
+@media(max-width: 550px) {
     #div-1 #close-1 {
         margin: 300px auto 0px;
         width: 30%;
