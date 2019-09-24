@@ -198,7 +198,7 @@ header nav {
 #domains button {
     display: block;
     margin: 50px auto;
-    width: 25%;
+    width: 60%;
     height: 50px;
     font-size: 1.5rem;
     text-transform: uppercase;
@@ -323,6 +323,12 @@ footer {
         width: 100%;
     }
 
+    /* MRPBA Domain */
+
+    #domains button {
+        width: 60%;
+    }
+
     /* Graduate section */
 
     #capability-1 h2 {
@@ -418,6 +424,14 @@ footer {
         margin-top: 170px;
     }
 
+    #domains {
+        margin-bottom: 250px;
+    }
+
+    #domains button {
+        width: 70%;
+    }
+
     /* Graduate capability */
 
     #graduate-heading h1{
@@ -434,6 +448,16 @@ footer {
 
     #main-learning aside#sidebar ol {
         width: 35%;
+    }
+
+    /* MRPBA domain */
+
+    #domains {
+        margin-bottom: 250px;
+    }
+
+    #domains button {
+        width: 70%;
     }
 
     /* Graduate Capability */
