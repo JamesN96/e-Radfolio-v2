@@ -195,6 +195,17 @@ header nav {
     text-align: center;
 }
 
+#domains button {
+    display: block;
+    margin: 50px auto;
+    width: 25%;
+    height: 50px;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    background: #26547C;
+    color: white;
+}
+
 /* Domain Divs */
 
 #div-1, #div-2, #div-3 {
