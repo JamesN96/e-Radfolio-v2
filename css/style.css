@@ -354,6 +354,23 @@ footer {
 
     /* Learning Section */
 
+    #main-learning aside#sidebar {
+        width: 25%;
+        margin-left: -50px;
+    }
+
+    #main-learning article#learning {
+        position: relative;
+        left: -30px;
+    }
+
+    #main-learning article#learning-2, #main-learning article#learning-3 {
+        float: right;
+        position: relative;
+        left: -30px;
+        width: 65%;
+    }
+
     /* MRPBA Domain */
 
     #domains button {
@@ -463,7 +480,7 @@ footer {
     }
 
     #main-learning article#learning {
-        margin: 0px auto;
+        margin: 0px auto ;
         width: 90%;
     }
 
