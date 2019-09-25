@@ -153,6 +153,15 @@ header nav {
     line-height: 2;
 }
 
+#learning-2, #learning-3 {
+    position: absolute;
+    left: 503px;
+    margin-top: 50px;
+    line-height: 2;
+    width: 50%;
+}
+
+
 /* Learning Sidebar */
 
 #main-learning aside#sidebar {
