@@ -155,6 +155,7 @@ header nav {
     width: 65%;
     margin-top: 50px;
     line-height: 2;
+    min-height: 500px;
     margin-bottom: -100px;
 }
 
