@@ -435,7 +435,7 @@ footer {
     /* Learning.html */
 
     #main-learning {
-        margin-bottom: 0px;
+        margin-bottom: 370px;
     }
 
     #page-heading h1 {
@@ -464,6 +464,12 @@ footer {
 
     #main-learning article#learning {
         margin: 0px auto;
+        width: 90%;
+    }
+
+    #main-learning article#learning-2, #main-learning article#learning-3 {
+        position: relative;
+        left: 40px;
         width: 90%;
     }
 
