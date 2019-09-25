@@ -1,3 +1,11 @@
+// LEARNING HTML SECTION
+
+// DOM Selectors
+
+let reflect = document.getElementById("reflect");
+let self = document.getElementById("self");
+let judge = document.getElementById("judge");
+
 // MRPBA SECTION 
 
 // DOM Selectors
@@ -30,3 +38,4 @@ function  showDiv2(e) {
 function  showDiv3(e) {
     document.getElementById("div-3").classList.toggle("display-none"); 
 }
+
