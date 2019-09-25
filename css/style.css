@@ -624,6 +624,10 @@ footer {
 
     /* Learning section */
 
+    #main-learning article#learning {
+        left: 30px;
+    }
+
     /* Domain section */
     #div-1 #close-1 {
         margin: 300px auto 0px;
