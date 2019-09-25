@@ -517,6 +517,12 @@ footer {
         width: 35%;
     }
 
+    #main-learning article#learning-2, #main-learning article#learning-3 {
+        position: relative;
+        left: 30px;
+        width: 90%;
+    }
+
     /* MRPBA domain */
 
     #domains {
@@ -586,6 +592,10 @@ footer {
 }
 
 @media(max-width: 550px) {
+
+    /* Learning section */
+
+    /* Domain section */
     #div-1 #close-1 {
         margin: 300px auto 0px;
         width: 30%;
