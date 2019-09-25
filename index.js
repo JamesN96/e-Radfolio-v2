@@ -6,6 +6,16 @@ let reflect = document.getElementById("reflect");
 let self = document.getElementById("self");
 let judge = document.getElementById("judge");
 
+// Event listener
+
+reflect.addEventListener("click", showArticle);
+
+// Function
+
+function showArticle(e) {
+    document.getElementById("learning").classList.toggle("display-none");
+}
+
 // MRPBA SECTION 
 
 // DOM Selectors
