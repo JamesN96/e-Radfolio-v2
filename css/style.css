@@ -333,6 +333,18 @@ footer {
 
 /* Media Queries */
 
+@media(max-width: 1825px) {
+    #main-learning article#learning-2, #main-learning article#learning-3 {
+        left: 690px;
+    }
+}
+
+@media(max-width: 1625px) {
+    #main-learning article#learning-2, #main-learning article#learning-3 {
+        left: 610px;
+    }
+}
+
 @media(max-width: 1498px) {
     #main article#about {
         width: 50%;
