@@ -146,21 +146,25 @@ header nav {
 
 /* Learning Article */
 
+#main-learning {
+    margin-bottom: 440px;
+}
+
 #main-learning article#learning {
     float: right;
     width: 65%;
     margin-top: 50px;
     line-height: 2;
+    margin-bottom: -100px;
 }
 
-#learning-2, #learning-3 {
+#main-learning #learning-2, #main-learning #learning-3 {
     position: absolute;
     left: 730px;
     margin-top: 50px;
     line-height: 2;
     width: 50%;
 }
-
 
 /* Learning Sidebar */
 
@@ -347,6 +351,8 @@ footer {
     .side {
         width: 100%;
     }
+
+    /* Learning Section */
 
     /* MRPBA Domain */
 
