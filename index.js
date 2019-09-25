@@ -5,6 +5,9 @@
 let reflect = document.getElementById("reflect");
 let self = document.getElementById("self");
 let judge = document.getElementById("judge");
+let learning = document.getElementById("learning");
+let learning2 = document.getElementById("learning-2");
+let learning3 = document.getElementById("learning-3");
 
 // Event listener
 
@@ -15,15 +18,15 @@ judge.addEventListener("click", showArticle3);
 // Function
 
 function showArticle(e) {
-    document.getElementById("learning").classList.toggle("display-none");
+    learning.classList.toggle("display-none");
 }
 
 function showArticle2(e) {
-    document.getElementById("learning-2").classList.toggle("display-none");
+    learning2.classList.toggle("display-none");
 }
 
 function showArticle3(e) {
-    document.getElementById("learning-3").classList.toggle("display-none");
+    learning3.classList.toggle("display-none");
 }
 
 // MRPBA SECTION 
