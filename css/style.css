@@ -480,13 +480,15 @@ footer {
     }
 
     #main-learning article#learning {
-        margin: 0px auto ;
+        position: relative;
+        left: 70px;
         width: 90%;
     }
 
     #main-learning article#learning-2, #main-learning article#learning-3 {
         position: relative;
-        left: 40px;
+        left: -10px;
+        top: -67px;
         width: 90%;
     }
 
