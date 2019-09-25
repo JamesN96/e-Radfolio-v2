@@ -9,11 +9,21 @@ let judge = document.getElementById("judge");
 // Event listener
 
 reflect.addEventListener("click", showArticle);
+self.addEventListener("click", showArticle2);
+judge.addEventListener("click", showArticle3);
 
 // Function
 
 function showArticle(e) {
     document.getElementById("learning").classList.toggle("display-none");
+}
+
+function showArticle2(e) {
+    document.getElementById("learning-2").classList.toggle("display-none");
+}
+
+function showArticle3(e) {
+    document.getElementById("learning-3").classList.toggle("display-none");
 }
 
 // MRPBA SECTION 
