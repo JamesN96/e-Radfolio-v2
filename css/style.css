@@ -650,6 +650,10 @@ footer {
 
     /* Learning section */
 
+    #main-learning {
+        padding-bottom: 720px;
+    }
+
     #main-learning article#learning {
         left: 30px;
     }
