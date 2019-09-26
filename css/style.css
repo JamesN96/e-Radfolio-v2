@@ -197,15 +197,15 @@ header nav {
 /* Domain section */
 
 #domains {
-    margin: 30px 0 280px 0;
+    margin: 70px 0 115px 0;
     text-align: center;
 }
 
 #domains button {
     display: block;
     margin: 50px auto;
-    width: 60%;
-    height: 50px;
+    width: 50%;
+    height: 90px;
     font-size: 1.5rem;
     text-transform: uppercase;
     background: #26547C;
