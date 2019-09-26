@@ -126,10 +126,7 @@ header nav {
     padding: 0 0 20px 20px;
 }
 
-/* Learning section */
-#main-learning {
-    margin-bottom: 400px;
-}
+    /* Learning section */
 
 /* Learning Page heading  */
 
@@ -177,6 +174,10 @@ header nav {
 
 #main-learning aside#sidebar li {
     padding: 10px 0 10px 0;
+}
+
+#main-learning aside#sidebar li:hover {
+    font-weight: bold;
 }
 
     /* MRPBA section */
