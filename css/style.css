@@ -239,7 +239,7 @@ header nav {
 #div-1 #close-1 {
     display: block;
     width: 10%;
-    margin: 270px auto 0px;
+    margin: 120px auto 0px;
     height: 30px;
     text-transform: uppercase;
 }
@@ -248,7 +248,7 @@ header nav {
     display: block;
     width: 10%;
     height: 30px;
-    margin: 230px auto 0px;
+    margin: 110px auto 0px;
     text-transform: uppercase;
 }
 
