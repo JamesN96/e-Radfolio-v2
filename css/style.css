@@ -236,6 +236,11 @@ header nav {
     margin-top: 50px;
 }
 
+#close-1, #close-2, #close-3 {
+    background: #C9E4FF;
+    border: 1px solid grey
+}
+
 #div-1 #close-1 {
     display: block;
     width: 10%;
