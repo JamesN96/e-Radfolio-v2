@@ -485,6 +485,12 @@ footer {
     #main-learning article#learning-2, #main-learning article#learning-3 {
         left: 690px;
     }
+
+    /* mrpba domains */
+
+    #domains {
+        padding-bottom: 50px;
+    }
 }
 
 @media(max-width: 1625px) {
