@@ -350,6 +350,13 @@ footer {
     #main-learning article#learning-2, #main-learning article#learning-3 {
         left: 610px;
     }
+
+    /* Graduate Capabilities  */
+    
+    #capability-1 h2 {
+        padding-left: 0px;
+        width: 15%;
+    }
 }
 
 @media(max-width: 1498px) {
