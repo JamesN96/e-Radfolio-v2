@@ -411,8 +411,12 @@ footer {
         margin-bottom: -500px;
     }
 
+    #div-1 p, #div-2 p, #div-3 p {
+        margin-left: 110px;
+    } 
+
     #div-1 #close-1 {
-        margin: 460px auto 0px;
+        margin: 300px auto 10px;
         width: 20%;
     }
 
@@ -449,6 +453,12 @@ footer {
 
     #main-learning {
         padding-bottom: 520px
+    }
+
+    /* MRPBA domains */
+
+    #div-1 p, #div-2 p, #div-3 p {
+        margin-left: 60px;
     }
 }
 
@@ -542,7 +552,7 @@ footer {
 
     #div-1, #div-2, #div-3 {
         position: relative; 
-        top: -600px;
+        top: -700px;
         left: 0px;
         min-height: 700px;
         margin-bottom: -500px;
@@ -598,9 +608,9 @@ footer {
 
     #div-1, #div-2, #div-3 {
        position: relative;
-       top: -600px;
+       top: -700px;
        left: 0px;
-       height: 700px;
+       min-height: 900px;
        margin-bottom: -500px
     }
 
@@ -609,12 +619,17 @@ footer {
     }
 
     #div-1 #close-1 {
-        margin: 360px auto 0px;
+        margin: 280px auto 10px;
         width: 30%;
     }
 
-    #div-2 #close-2, #div-3 #close-3{
-        margin: 150px auto 0px;
+    #div-2 #close-2 {
+        margin: 160px auto 0px;
+        width: 30%;
+    }
+
+    #div-3 #close-3 {
+        margin: 80px auto 0px;
         width: 30%;
     }
 
@@ -675,8 +690,24 @@ footer {
     }
 
     /* Domain section */
+
+    #div-1 {
+        top: -750px;
+        min-height: 800px;
+    }
+
+    #div-2 {
+        top: -750px;
+        min-height: 1000px;
+    }
+
+    #div-3 {
+        top: -750px;
+        min-height: 1050px;
+    }
+
     #div-1 #close-1 {
-        margin: 300px auto 0px;
+        margin: 10px auto 0px;
         width: 30%;
     }
 
