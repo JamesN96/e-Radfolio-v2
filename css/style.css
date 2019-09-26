@@ -232,7 +232,7 @@ header nav {
 
 #div-1 p, #div-2 p, #div-3 p {
     width: 80%;
-    margin-left: 80px;
+    margin-left: 140px;
     margin-top: 50px;
 }
 
@@ -256,7 +256,7 @@ header nav {
     display: block;
     width: 10%;
     height: 30px;
-    margin: 200px auto 0px;
+    margin: 130px auto 0px;
     text-transform: uppercase;
 }
 
