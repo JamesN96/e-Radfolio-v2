@@ -103,7 +103,8 @@ header span:hover {
 }
 
 #showcase h1 {
-    font-size: 60px;
+    font-size: 100px;
+    font-family: "Mansalva", sans-serif;
     color: #ffffff;
     position: absolute;
     left: 0;
