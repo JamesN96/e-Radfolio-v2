@@ -77,6 +77,11 @@ header nav {
 
 header span {
     float: left;
+    padding-left: 10px;
+}
+
+header span:hover {
+    transform: scale(1.4);
 }
 
 /* Showcase */
