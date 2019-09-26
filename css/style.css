@@ -646,6 +646,14 @@ footer {
     }
 }
 
+@media(max-width: 640px) {
+    /* Learning section */
+
+    #main-learning {
+        margin-bottom: 350px;
+    }
+}
+
 @media(max-width: 550px) {
 
     /* Learning section */
