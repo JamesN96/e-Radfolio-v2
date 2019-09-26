@@ -436,6 +436,14 @@ footer {
     }
 }
 
+@media(max-width: 1150px) {
+    /* learning.html */
+
+    #main-learning {
+        padding-bottom: 520px
+    }
+}
+
 @media(max-width: 981px) {
 
     #main {
@@ -470,7 +478,7 @@ footer {
     /* Learning.html */
 
     #main-learning {
-        margin-bottom: 370px;
+        margin-bottom: 270px;
     }
 
     #page-heading h1 {
