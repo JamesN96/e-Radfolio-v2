@@ -1,7 +1,8 @@
 body {
-    font: 15px/1.5 Arial, Helvetica, sans-serif;
+    font: 15px/1.5 "Open sans";
     padding: 0;
     margin: 0;
+    /* Arial, Helvetica, sans-serif */
 }
 
 /* Global */
@@ -38,9 +39,10 @@ ul {
 /* Header */
 
 header {
-    background: #26547C;
-    /* border-bottom: 3px solid #ffffff; */
-    color: #ffffff;
+    /* background: #26547C; */
+    background: black;
+    border-bottom: 3px solid black;
+    /* color: #ffffff; */
     font-size: 20px;
     min-height: 70px;
     padding-top: 20px;
@@ -55,6 +57,7 @@ header a {
     color: #ffffff;
     text-decoration: none;
     text-transform: uppercase;
+    font-family: "Poppins";
 }
 
 header a:hover {
@@ -477,7 +480,8 @@ hr {
 /* Footer */
 
 footer {
-    background: #26547C;
+    /* background: #26547C; */
+    background: black;
     margin-top: 50px;
     padding: 15px;
     color: #ffffff;
