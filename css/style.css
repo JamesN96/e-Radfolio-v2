@@ -423,6 +423,7 @@ header span:hover {
     margin-top: 140px;
     text-align: center;
     text-transform: uppercase;
+    font-family: "Poppins";
 }
 
 #graduate-heading h1 {
@@ -441,6 +442,7 @@ header span:hover {
     width: 25%;
     margin-top: 50px;
     padding-left: 40px;
+    font-family: "Poppins";
 }
 
 #capability-1 article#inventiveness {
@@ -456,6 +458,7 @@ header span:hover {
     width: 25%;
     margin-top: 100px;
     padding-right: 40px;
+    font-family: "Poppins";
 }
 
 #capability-2 article#influence {
