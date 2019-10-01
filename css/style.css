@@ -19,7 +19,8 @@ ul {
 }
 
 .side {
-    background: #E5FFF7;
+    /* background: #E5FFF7; */
+    background-color: rgb(48, 48, 48);
     margin-top: 70px;
     margin-left: 60px;
 }
@@ -41,7 +42,7 @@ ul {
 header {
     /* background: #26547C; */
     background: black;
-    border-bottom: 3px solid black;
+    border-bottom: 1px solid orange;
     /* color: #ffffff; */
     font-size: 20px;
     min-height: 70px;
@@ -54,7 +55,8 @@ header {
 }
 
 header a {
-    color: #ffffff;
+    color: orange;
+    /* color: #FCE780; */
     text-decoration: none;
     text-transform: uppercase;
     font-family: "Poppins";
@@ -236,18 +238,25 @@ header span:hover {
 
 /* Main-about */
 
+#main {
+    background: rgb(24, 24, 24);
+    border-top: 1px solid orange;
+}
+
 #main article#about {
     float: left;
     width: 65%;
     margin-top: 70px;
     padding: 30px;
     padding-bottom: 165px;
-    color: #7196A8;
+    /* color: #7196A8; */
+    color: #ffffff;
 }
 
 #main h1 {
     font-size: 55px;
-    color: #7196A8;
+    /* color: #7196A8; */
+    color: orange;
     padding-left: 20px;
 }
 
@@ -267,7 +276,8 @@ header span:hover {
 
 #main a {
     text-decoration: none;
-    color: #7196A8;
+    /* color: #7196A8; */
+    color: orange;
 }
 
 #main h3 {
@@ -365,7 +375,8 @@ header span:hover {
     font-family: "Poppins";
     font-size: 1.5rem;
     text-transform: uppercase;
-    background: #26547C;
+    /* background: #26547C; */
+    background: orange;
     color: white;
 }
 
@@ -493,7 +504,7 @@ hr {
 
 footer {
     /* background: #26547C; */
-    background: black;
+    background: orange;
     margin-top: 50px;
     padding: 15px;
     color: #ffffff;
