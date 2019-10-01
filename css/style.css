@@ -341,6 +341,7 @@ header span:hover {
 #mrpba-heading h1 {
     border-bottom: 1px solid black;
     padding-bottom: 30px;
+    font-family: "Poppins";
 }
 
 /* Domain section */
@@ -355,6 +356,7 @@ header span:hover {
     margin: 50px auto;
     width: 50%;
     height: 90px;
+    font-family: "Poppins";
     font-size: 1.5rem;
     text-transform: uppercase;
     background: #26547C;
@@ -372,6 +374,7 @@ header span:hover {
     z-index: 10;
     border: 3px solid black;
     background: #C9E4FF;
+    font-family: "Poppins";
 }
 
 #div-1 h1, #div-2 h1, #div-3 h1 {
