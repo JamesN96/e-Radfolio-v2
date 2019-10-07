@@ -911,6 +911,11 @@ footer {
     }
 
 @media(max-width: 450px) {
+    #main aside#sidebar {
+        margin-top: -30px;
+        margin-left: -20px;
+    }
+    
     /* Graduate */
 
     #capability-2 {
