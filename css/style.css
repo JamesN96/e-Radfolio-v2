@@ -26,7 +26,7 @@ ul {
 }
 
 .border {
-    border: 1px solid blue;
+    border: 1px solid black;
 }
 
 .display-none {
@@ -241,7 +241,6 @@ header span:hover {
 #main {
     background: rgb(24, 24, 24);
     border-top: 1px solid orange;
-
 }
 
 #main article#about {
@@ -296,7 +295,7 @@ header span:hover {
 }
 
 #page-heading h1 {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid orange;
     padding-bottom: 30px;
     font-family: "Poppins";
 }
@@ -356,7 +355,7 @@ header span:hover {
 }
 
 #mrpba-heading h1 {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid orange;
     padding-bottom: 30px;
     font-family: "Poppins";
 }
@@ -448,7 +447,7 @@ header span:hover {
 }
 
 #graduate-heading h1 {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid orange;
     padding-bottom: 30px;
 }
 
@@ -499,7 +498,8 @@ header span:hover {
 hr {
     width: 80%;
     height: 2px;
-    background-color: blue;
+    background-color: orange;
+    border: none;
 }
 
 /* Footer */
@@ -507,10 +507,10 @@ hr {
 footer {
     /* background: #26547C; */
     background: orange;
-    margin-top: 0px;
     padding: 15px;
     color: #ffffff;
     text-align: center;
+    border-top: 1px solid black;
 }
 
 /* Media Queries */
