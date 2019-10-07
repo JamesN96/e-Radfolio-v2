@@ -365,7 +365,7 @@ header span:hover {
 /* Domain section */
 
 #domains {
-    margin: 70px 0 115px 0;
+    margin: 70px 0 165px 0;
     text-align: center;
 }
 
@@ -919,6 +919,11 @@ footer {
     #main-learning {
         padding-bottom: 1050px;
     }
-    
+
+    /* Graduate */
+
+    #capability-2 {
+        margin-bottom: 20px;
+    }
 }
 }
