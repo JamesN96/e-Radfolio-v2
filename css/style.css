@@ -589,7 +589,7 @@ footer {
     
     #div-1, #div-2, #div-3 {
         position: relative; 
-        top: -600px;
+        top: -660px;
         left: 0px;
         min-height: 700px;
         margin-bottom: -500px;
@@ -736,7 +736,7 @@ footer {
 
     #div-1, #div-2, #div-3 {
         position: relative; 
-        top: -700px;
+        top: -750px;
         left: 0px;
         min-height: 700px;
         margin-bottom: -500px;
@@ -792,7 +792,7 @@ footer {
 
     #div-1, #div-2, #div-3 {
        position: relative;
-       top: -700px;
+       top: -750px;
        left: 0px;
        min-height: 900px;
        margin-bottom: -500px
