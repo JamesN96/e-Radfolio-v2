@@ -908,6 +908,12 @@ footer {
     }
 
 @media(max-width: 400px) {
+    /* About */
+
+    #main aside#sidebar {
+        margin-top: -100px;
+        margin-left: -15px;
+    }
     /* Learning */
 
     #main-learning {
