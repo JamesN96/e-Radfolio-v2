@@ -914,19 +914,6 @@ footer {
     }
 
 @media(max-width: 450px) {
-    #main aside#sidebar {
-        margin-top: -30px;
-        margin-left: -20px;
-    }
-    
-    /* Graduate */
-
-    #capability-2 {
-        margin-bottom: 20px;
-    }
-}
-
-@media(max-width: 400px) {
     /* About */
 
     #showcase h1 {
@@ -935,15 +922,32 @@ footer {
         margin-left: -50%;
     }
 
-    #main aside#sidebar {
-        margin-top: -100px;
-        margin-left: -15px;
-    }
+    /* Index Main */
 
+    #main aside#sidebar {
+        margin-top: -30px;
+        margin-left: -20px;
+    }
+    
     /* Learning */
 
     #main-learning {
         padding-bottom: 1050px;
     }
+
+    /* Graduate */
+
+    #capability-2 {
+        margin-bottom: 20px;
+    }
+}
+
+@media(max-width: 400px) {
+    
+    #main aside#sidebar {
+        margin-top: -100px;
+        margin-left: -15px;
+    }
+
 }
 }
