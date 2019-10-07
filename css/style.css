@@ -244,6 +244,7 @@ header span:hover {
 #main {
     background: rgb(24, 24, 24);
     border-top: 1px solid orange;
+    border-bottom: 1px solid green;
 }
 
 #main article#about {
@@ -549,6 +550,7 @@ footer {
 }
 
 @media(max-width: 1498px) {
+
     #main article#about {
         width: 50%;
         padding-left: 0;
@@ -628,7 +630,7 @@ footer {
 
 @media(max-width: 1495px) {
     #main {
-        margin-bottom: -100px;
+        margin-bottom: -80px;
     }
 }
 
