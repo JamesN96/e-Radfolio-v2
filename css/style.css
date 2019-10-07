@@ -338,10 +338,12 @@ header span:hover {
 
 #main-learning aside#sidebar li {
     padding: 10px 0 10px 0;
+    color: orange;
 }
 
 #main-learning aside#sidebar li:hover {
     font-weight: bold;
+    color: #ffffff;
 }
 
     /* MRPBA section */
@@ -375,8 +377,8 @@ header span:hover {
     font-family: "Poppins";
     font-size: 1.5rem;
     text-transform: uppercase;
-    /* background: #26547C; */
     background: orange;
+    border: 2px solid black;
     color: white;
 }
 
