@@ -395,7 +395,9 @@ header span:hover {
     min-height: 500px;
     z-index: 10;
     border: 3px solid black;
-    background: #C9E4FF;
+    /* background: #C9E4FF; */
+    background: rgb(249, 214, 148);
+    color: black;
     font-family: "Poppins";
 }
 
@@ -412,8 +414,9 @@ header span:hover {
 }
 
 #close-1, #close-2, #close-3 {
-    background: #C9E4FF;
-    border: 1px solid grey
+    /* background: #C9E4FF; */
+    background: transparent;
+    border: 1px solid grey;
 }
 
 #div-1 #close-1 {
