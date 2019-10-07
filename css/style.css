@@ -907,6 +907,14 @@ footer {
         width: 30%;
     }
 
+@media(max-width: 450px) {
+    /* Graduate */
+
+    #capability-2 {
+        margin-bottom: 20px;
+    }
+}
+
 @media(max-width: 400px) {
     /* About */
 
@@ -918,12 +926,6 @@ footer {
 
     #main-learning {
         padding-bottom: 1050px;
-    }
-
-    /* Graduate */
-
-    #capability-2 {
-        margin-bottom: 20px;
     }
 }
 }
