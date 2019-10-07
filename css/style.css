@@ -906,4 +906,13 @@ footer {
         margin: 50px auto 10px;
         width: 30%;
     }
+
+@media(max-width: 400px) {
+    /* Learning */
+
+    #main-learning {
+        padding-bottom: 1050px;
+    }
+    
+}
 }
