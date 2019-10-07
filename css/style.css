@@ -241,6 +241,7 @@ header span:hover {
 #main {
     background: rgb(24, 24, 24);
     border-top: 1px solid orange;
+
 }
 
 #main article#about {
@@ -486,6 +487,7 @@ header span:hover {
     width: 70%;
     margin-top: 100px;
     padding: 20px 10px 150px 10px;
+    margin-bottom: 50px;
 }
 
 #capability-2 #side {
@@ -505,7 +507,7 @@ hr {
 footer {
     /* background: #26547C; */
     background: orange;
-    margin-top: 50px;
+    margin-top: 0px;
     padding: 15px;
     color: #ffffff;
     text-align: center;
