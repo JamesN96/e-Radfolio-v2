@@ -921,10 +921,17 @@ footer {
 @media(max-width: 400px) {
     /* About */
 
+    #showcase h1 {
+        width: 100%;
+        left: 50%;
+        margin-left: -50%;
+    }
+
     #main aside#sidebar {
         margin-top: -100px;
         margin-left: -15px;
     }
+
     /* Learning */
 
     #main-learning {
